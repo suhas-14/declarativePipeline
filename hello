@@ -1,0 +1,3 @@
+#!/bin/bash
+#writing bash script
+echo"Hello World!"
